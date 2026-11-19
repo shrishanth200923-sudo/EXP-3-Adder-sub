@@ -86,25 +86,8 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 ### Output
 
 
-### Viva-Voce Questions
+<img width="1870" height="992" alt="Screenshot 2026-11-10 143639" src="https://github.com/user-attachments/assets/32e5a009-db98-49e0-90da-2d76ac06369f" />
 
-•	What is a Half Adder, and what are its limitations compared to a Full Adder?
-
-•	What is a Half Subtractor, and what does the Borrow output signify?
-
-•	Why is the Sum/Difference expression identical (A⊕B) for both circuits, while Carry and Borrow differ?
-
-•	What gate realizes the XOR function, and why is it central to both circuits?
-
-•	What is the purpose of a Verilog testbench?
-
-•	Why is a VCD file generated, and what does $dumpvars(0, tb) do?
-
-•	What is the purpose of ./simv?
-
-•	What is the difference between simulation and synthesis?
-
-•	How would you extend this design to a Full Adder/Full Subtractor?
 
 ### Result
 
